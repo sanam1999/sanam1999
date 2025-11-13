@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sanam</h1>
+<h1 align="center">Hi , I'm Sanam</h1>
 <p align="center">
   Detail-oriented and passionate <b>Full-Stack Developer</b> with hands-on experience in building scalable and responsive web applications and mobile-friendly applications using the <b>MERN stack</b>.<br>
   A highly motivated final-year undergraduate at Horizon Campus with strong problem-solving skills and a commitment to continuous learning.<br>
